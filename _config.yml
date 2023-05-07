@@ -4,11 +4,11 @@ email: lin.zhao119@duke.edu
 description: > # this means to ignore newlines until "baseurl:" 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://aziff.github.io" # the base hostname & protocol for your site
-twitter_username: 
+twitter_username: my_twitter
 github_username:  linzhao0351
-google_scholar_id: 
+google_scholar_id: my_google_scholar
 orcid_id: 0000-0001-6403-8516
-stackoverflow_id: 
+stackoverflow_id: my_stackoverflow
 
 # Build settings
 markdown: kramdown
