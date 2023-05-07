@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/myphoto.png" caption="Me, Anna" width=300 align="right" %}
+{% include image.html url="/images/myphoto.png" caption="Me, Lin" width=300 align="right" %}
 
 
 
