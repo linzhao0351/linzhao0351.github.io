@@ -6,4 +6,4 @@ permalink: /research/
 
 **Works in Progress**
 
-I will post my working papers here
+I will post my working papers here.
