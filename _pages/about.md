@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Lin Zhao (赵霖)"
+title: Lin Zhao (赵霖)
 author_profile: true
 redirect_from: 
   - /about/
