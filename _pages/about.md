@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I’m a PhD candidate in finance at Fuqua School of Business, Duke University. 
+<br>
+
+I’m a PhD candidate in finance at Fuqua School of Business, Duke University. My research interests focus on empirical corporate finance and empirical industrial organization.
