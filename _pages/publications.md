@@ -19,6 +19,7 @@ author_profile: true
 
 ## Flows, Financing Decisions, and Institutional Ownership of the U.S. Equity Market
 with [Alon Brav](https://www.fuqua.duke.edu/faculty/alon-brav) and [Dorothy Lund](https://www.law.columbia.edu/faculty/dorothy-s-lund) 
+
 [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693837)
 
 **Abstract**  This Article analyzes the relationship between flows to institutional investment managers, corporate financing decisions, and institutional ownership of U.S. public equity. In so doing, it provides new evidence about the drivers of institutional investor growth in equity ownership over the past two decades. Contrary to conventional narrative, we find that equity capital flows into the “Big Three” investment managers have slowed in recent years, with substantial differences between each institution. We also present a framework to understand how fund characteristics and corporate actions such as stock buybacks and equity issuances combine to shape the evolution of institutional ownership, including that of the Big Three. Our evidence reveals why certain institutions win and lose in the contest for flows and implicates important legal conversations including the impact of stock buybacks, mergers between investment managers, and the governance risks presented by the rise of index investing.
