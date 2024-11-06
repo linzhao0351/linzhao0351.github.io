@@ -21,10 +21,10 @@ repository               : "linzhao0351/linzhao0351.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "lz119.png"
   name             : "Lin Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate in finance"
+  bio              : "PhD candidate in finance at Fuqua"
   location         : "Durham, NC"
   employer         : "Duke University"
   uri              : # URL
