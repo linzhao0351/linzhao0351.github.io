@@ -18,7 +18,7 @@ author_profile: true
 
 
 ## Capital Flows, Corporate Financing, and Institutional Ownership of U.S. Equity Markets
-with Alon Brac and Dorothy Lund
+with Alon Brav and Dorothy Lund
 
 **Abstract**  We analyze the equilibrium relationship between equity flows, corporate financing decisions, and institutional ownership of U.S. public equity to better understand the sources of inflows allocated to asset managers and the dramatic growth in equity ownership of institutional asset managers over the past two decades. Contrary to current narrative, we find that ownership by the Big Three — Vanguard, State Street Global Advisors, and BlackRock— has leveled off in recent years. Evidence based on equity capital flows into the Big Three also undermines the conventional narrative of rapid and accelerating growth. We present a framework to understand how fund characteristics and corporate actions such as stock buybacks and equity issuances have combined to shape the evolution of institutional investor ownership, including that of the Big Three. Indeed, our analysis reveals that a substantial part of the growth of institutional investor ownership of U.S. capital markets can be attributed to these fund characteristics and corporate actions. Our evidence points to the origin of fund flows and why certain institutions win and lose in the contest for flows.
 
