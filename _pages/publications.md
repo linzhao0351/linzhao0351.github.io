@@ -12,12 +12,6 @@ author_profile: true
 # Working Papers
 ***
 
-## Bundling and Exclusion in the Defined Contribution Plan Market
-
-(Draft coming soon)
-
-**Abstract** Employers work with recordkeepers to provide Defined Contribution (DC) plans for their employees. Most of the major recordkeepers are vertically integrated, including their own investment products in the plan menu. Recordkeepers effectively sell a bundle of two products: the recordkeeping service and the affiliated investment products. I show that in addition to the typical bundling pricing strategy, recordkeepers promote bundled sales through an exclusion strategy, requiring minimum revenue from a single client in order to induce the employers to choose plans with more affiliated options or more expensive options. As a result, small sponsors are excluded from the client pool of the major recordkeepers. Pooled employer plans, introduced in 2021 by The SECURE Act, can be an effective alternative for small sponsors to access major recordkeepers and improve plan participants’ welfare.
-
 
 ## Flows, Financing Decisions, and Institutional Ownership of the U.S. Equity Market
 with [Alon Brav](https://www.fuqua.duke.edu/faculty/alon-brav) and [Dorothy Lund](https://www.law.columbia.edu/faculty/dorothy-s-lund) 
