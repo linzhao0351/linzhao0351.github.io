@@ -9,4 +9,6 @@ redirect_from:
 
 <br>
 
-I’m a PhD candidate in finance at the Fuqua School of Business, Duke University. I study empirical corporate finance and empirical industrial organization, focusing on corporate governance and the pension market. I am on the 2025-2026 job market.
+I’m a PhD candidate in finance at the Fuqua School of Business, Duke University. I study empirical corporate finance and empirical industrial organization, focusing on the mutual fund market and the pension market. 
+
+I am on the 2025-2026 job market.
