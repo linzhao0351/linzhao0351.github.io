@@ -9,4 +9,4 @@ redirect_from:
 
 <br>
 
-I’m a PhD candidate in finance at Fuqua School of Business, Duke University. My research interests focus on empirical corporate finance and empirical industrial organization.
+I’m a PhD candidate in finance at the Fuqua School of Business, Duke University. I study empirical corporate finance and empirical industrial organization, focusing on corporate governance and the pension market. I am on the 2025-2026 job market.
