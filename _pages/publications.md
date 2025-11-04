@@ -22,7 +22,7 @@ author_profile: true
 ## Flows, Financing Decisions, and Institutional Ownership of the U.S. Equity Market
 with [Alon Brav](https://www.fuqua.duke.edu/faculty/alon-brav) and [Dorothy Lund](https://www.law.columbia.edu/faculty/dorothy-s-lund) 
 
-Forthcoming at _Journal of Corporation Law_
+Forthcoming 
 
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693837)
 
