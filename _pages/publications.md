@@ -14,7 +14,7 @@ author_profile: true
 
 ## Bundling and Exclusion in the Defined Contribution Plan Market 
 
-(Job market paper, draft coming soon)
+(Job market paper) [Link](/files/JMP.pdf)
 
 **Abstract** Employers work with recordkeepers to provide defined contribution plans for their employees. Yet access to high-quality plans remains unequal, particularly for employees at small firms. I show that this disparity is driven by a supply-side friction: recordkeepers exercise their market power by strategically excluding small employers through minimum revenue thresholds. Because most major recordkeepers are vertically integrated and bundle recordkeeping with their own investment products, exclusion enables them to raise recordkeeping fees and induce employers towards plans with more affiliated and expensive investment options. I build and estimate a structural model that quantifies the extent and consequences of exclusions. Counterfactual analyses show that policies designed to relax the exclusion, such as pooled employer plans (PEPs), can expand access to high-quality plans and improve participant welfare, although these gains can be mitigated by recordkeepers' strategic adjustment of exclusions in equilibrium. 
 
