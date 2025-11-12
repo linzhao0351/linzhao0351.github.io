@@ -26,7 +26,7 @@ with [John Barry](https://johnwbarry.info/) and [Noah Lyman](https://www.noahlym
 
 **Abstract**  We estimate a search model of managerial careers to quantify the relative importance of human capital accumulation (both general and firm-specific), managerial bargaining power, and imperfect labor market competition in shaping compensation and mobility in the market for US corporate executives. The composition of human capital is career-dependent and varies widely across managers:  over tenure, firm-specific capital is the greatest driver of wage growth, whereas over experience in the labor market, job search and competition dominate. Firm-specific capital can help explain the high rate of internal CEO hires and low observed cross-firm CEO mobility. We further show that labor market competition (relative to pure bargaining power) makes up the majority of realized CEO surplus capture, and that firm-specific human capital positively interacts with competition in determining CEOs' shares of rents because it raises the match-specific quality between the firm and manager.
 
-Selected presentations: NBER Economics of Executive Compensation, FIRS, MARC, ITAM Finance Conference, FMA, UNSW Corporate Finance)
+Selected presentations: NBER Economics of Executive Compensation, FIRS, MARC, ITAM Finance Conference, FMA, UNSW Corporate Finance
 
 ## Information and Preferences in Shareholder Voting
 with [John Barry](https://johnwbarry.info/) and James Pinnington
