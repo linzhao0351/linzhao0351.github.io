@@ -39,7 +39,7 @@ with [John Barry](https://johnwbarry.info/) and James Pinnington
 ## Flows, Financing Decisions, and Institutional Ownership of the U.S. Equity Market
 with [Alon Brav](https://www.fuqua.duke.edu/faculty/alon-brav) and [Dorothy Lund](https://www.law.columbia.edu/faculty/dorothy-s-lund) 
 
-Forthcoming at *Journal of Corporation Law*
+Forthcoming at *The Journal of Corporation Law*
 
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693837)
 
