@@ -20,7 +20,7 @@ author_profile: true
 
 
 ## Human Capital, Competition and Mobility in the Managerial Labor Market
-with [John Barry](https://johnwbarry.info/) and [Noah Lyman](https://www.noahlyman.com/)
+with [John Barry](https://johnwbarry.info/) and [Noah Lyman](https://www.noahlyman.com/), Submitted
 
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5267762)
 
