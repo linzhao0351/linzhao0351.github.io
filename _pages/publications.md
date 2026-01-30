@@ -29,9 +29,9 @@ with [John Barry](https://johnwbarry.info/) and [Noah Lyman](https://www.noahlym
 Selected presentations: NBER Economics of Executive Compensation, FIRS, MARC, ITAM Finance Conference, FMA, UNSW Corporate Finance
 
 ## Information and Preferences in Shareholder Voting
-with [John Barry](https://johnwbarry.info/) and James Pinnington
+with [John Barry](https://johnwbarry.info/) and James Pinnington 
 
-(Draft available upon request)
+[Link](https://github.com/linzhao0351/linzhao0351.github.io/blob/master/files/strategic_voting.pdf)
 
 **Abstract** We develop a model of shareholder voting with incomplete information about proposal quality. Shareholders differ in ownership stake, private information precision, and unconditional preference towards proposals passing. Equilibrium voting makes the mapping between observed vote records and preferences ambiguous because of strategic voting (shareholders conditioning on information implied by others’ votes) and belief correlation (shared public signals about proposal quality). We estimate the model using voting records of large US mutual funds and find that blockholders' observed support rates can differ considerably from preference-implied support rates, highlighting that investor preferences cannot be inferred directly from vote records.
 
