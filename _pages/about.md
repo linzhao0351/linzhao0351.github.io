@@ -9,6 +9,6 @@ redirect_from:
 
 <br>
 
-I’m a PhD candidate in finance at the Fuqua School of Business, Duke University. I study empirical corporate finance and empirical industrial organization, focusing on corporate governance, mutual fund market, and pension plan market. 
+I received my PhD in Finance from the Fuqua School of Business, Duke University. I study empirical corporate finance and empirical industrial organization, focusing on corporate governance, mutual fund market, and pension plan market. 
 
-I am on the 2025-2026 job market.
+I will join the Kelley School of Business at Indiana University as an Assistant Professor of Finance starting in July 2026.
