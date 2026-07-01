@@ -9,6 +9,7 @@ redirect_from:
 
 <br>
 
-I received my PhD in Finance from the Fuqua School of Business, Duke University. I study empirical corporate finance and empirical industrial organization, focusing on corporate governance, mutual fund market, and pension plan market. 
+I am an Assistant Professor of Finance at the Kelley School of Business at Indiana University. I received my PhD in Finance from the Fuqua School of Business, Duke University.
 
-I will join the Kelley School of Business at Indiana University as an Assistant Professor of Finance starting in July 2026.
+I study empirical corporate finance and empirical industrial organization, focusing on corporate governance, mutual fund market, and pension plan market. 
+
